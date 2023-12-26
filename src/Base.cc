@@ -125,7 +125,7 @@ bool Base::addContainer(unsigned int weight, unsigned int value )
 	try
 	{
 		Container nuevo(weight,value);
-		containers.push_back(nuevo);
+		containers.push_back(0);
 		return true;
 	}
 	
