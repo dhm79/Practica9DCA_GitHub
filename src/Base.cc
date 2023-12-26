@@ -136,6 +136,8 @@ bool Base::addContainer(unsigned int weight, unsigned int value )
 	}
 	
 }
+
+//MAS PRUEBAS EN LA RAMA1
 bool Base::removeContainer(unsigned int id)    // Revisar  no encuentra el id container
 {
 	if(id == 0)
