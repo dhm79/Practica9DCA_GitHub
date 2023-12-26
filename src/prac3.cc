@@ -25,6 +25,8 @@ void menu()
 
 //ESTO ES UNA PRUEBA PARA GIT
 
+//ESTOS SON CAMBIOS EN LA RAMA1S
+
 int main()
 {
   Base base("Logistic Center");
