@@ -119,6 +119,7 @@ int Base::searchShip(string name) const
 		return -1;
 	}
 }
+//SE ELIMINA FUNCIONALIDAD
 
 bool Base::addContainer(unsigned int weight, unsigned int value ) 
 {
